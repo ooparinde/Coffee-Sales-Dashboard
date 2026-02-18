@@ -1,4 +1,4 @@
- Coffee-Sales-Dashboard
+ 
 Sales Performance Dashboard for Daily Grind Coffee (2024-2025)
  📊 Project Overview
 This project presents an interactive Coffee Sales Dashboard designed to analyze sales performance and revenue trends. The dashboard highlights key metrics such as total sales, total transactions, average unit price, and highest sales value. It provides insights into monthly and yearly revenue trends, payment method preferences, and product performance to support data-driven business decisions.
