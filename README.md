@@ -28,5 +28,12 @@ This project presents an interactive Coffee Sales Dashboard designed to analyze 
 - Americano with Milk generated the highest revenue among all coffee products.
 - Caramel was the least sold coffee product.
 
+  🧠 What I Learned
+- How to design an interactive dashboard focused on business metrics
+- Analyzing sales performance across time, payment methods, and products
+- Communicating insights clearly using visual storytelling
+- Understanding the impact of data rounding and presentation in dashboards
+
+
 
 
